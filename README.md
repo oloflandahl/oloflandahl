@@ -1,3 +1,3 @@
-👋 Hi, I’m Olof
+👋  Hi, I’m Olof
 
-👀 To learn more about me, have a look at https://oloflandahl.com/
+👀  To learn more about me, have a look at https://oloflandahl.com/
